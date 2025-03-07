@@ -1,4 +1,4 @@
-# Brain-wave-intern
+# Brain-Wave-Matrix-Intern
 
 # 📊 Sales Analytics Dashboard (Excel)  
 
